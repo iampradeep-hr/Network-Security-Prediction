@@ -13,7 +13,7 @@ from sklearn import linear_model
 # In[2]:
 
 
-df=pd.read_csv("E:\SPIT\Cybersecurity_attacks.csv")
+df=pd.read_csv("Cybersecurity_attacks.csv")
 df = pd.DataFrame(df)
 df
 
